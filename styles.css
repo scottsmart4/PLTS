@@ -50,7 +50,7 @@ body {
 }
 
 .logo {
-    width: 150px;
+    width: 200px;
     height: auto;
     margin-bottom: auto;
     display: block;
@@ -202,7 +202,7 @@ input[type="email"]:focus {
     }
 
     .logo {
-        width: 100px;
+        width: 150px;
         margin-bottom: 40px;
     }
 
